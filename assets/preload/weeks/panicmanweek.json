@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Starting To Panic",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Just Panic",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Panicked",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Panic Man",
+	"weekName": "Panic Man",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
